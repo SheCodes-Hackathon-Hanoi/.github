@@ -6,7 +6,13 @@ Shecodes là tổ chức tiên phong hỗ trợ phái nữ trong lĩnh vực CNT
 
 ## Hướng dẫn nộp bài
 Bước 1. Ở trang chủ của github SheCodes Hackathon 2023 - Hanoi, hãy nhấn vào nút New.
-![step 1](https://github.com/SheCodes-Hackathon-Hanoi/.github/blob/main/profile/step1.jpg)
+![step 1](profile/step1.png)
 
 Bước 2. Nhấn vào lựa chọn Import a repository.
-![step 2](https://github.com/SheCodes-Hackathon-Hanoi/.github/blob/main/profile/step2.jpg)
+![step 2](profile/step2.png)
+
+Bước 3. Điền link repository Github của đội vào phần Your old repository's clone URL, di chuyển xuống phía dưới, đổi Owner thành SheCodes-Hackathon và điền tên đội bên cạnh (không dấu) và click option Public ở phía dưới. Cuối cùng, click Begin Import ở dưới.
+![step 3](profile/step3.png)
+
+Bước 4. Submit thành công khi đến được màn hình này! 🎉
+![step 4](profile/step4.png)
