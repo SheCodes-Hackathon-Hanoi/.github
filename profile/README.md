@@ -1,4 +1,4 @@
-![final](../profile/backdrop_shecodes.jpg)
+![final](backdrop_shecodes.jpg)
 
 ### Xin chào các hackers của SheCodes Hackathon 2023 - Hanoi!
 
