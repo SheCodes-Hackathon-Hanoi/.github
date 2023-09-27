@@ -1,4 +1,4 @@
-![final](backdrop_shecodes.jpg)
+![final](https://github.com/SheCodes-Hackathon-Hanoi/.github/blob/main/profile/backdrop_shecodes.jpg)
 
 ### Xin chào các hackers của SheCodes Hackathon 2023 - Hanoi!
 
