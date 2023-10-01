@@ -5,6 +5,7 @@
 Shecodes là tổ chức tiên phong hỗ trợ phái nữ trong lĩnh vực CNTT, năm nay, SheCodes sẽ bước sang năm thứ 5 tổ chức cuộc thi SheCodes Hackathon - cuộc thi hackathon lớn nhất dành cho các bạn nữ tại Việt Nam, cùng với sự đồng hành của các đối tác đến từ GFT, Netcompany, Positive Thinking Company, Katalon và VTC Academy.
 
 ## Hướng dẫn nộp bài
+#### Note: Xin vui lòng chỉ nộp version cuối cùng
 ### Bước 1. Ở trang chủ của github SheCodes Hackathon 2023 - Hanoi, hãy nhấn vào nút *New*.
 ![step 1](profile/step1.png)
 
